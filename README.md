@@ -12,8 +12,8 @@
 * Автоматическое обновление приложения с сервера
 
 ## Иллюстрации:
-![Auth](https://raw.githubusercontent.com/CatDevelop/IT-School/main/Resources/Demo1.png "Library")
-![Main](https://raw.githubusercontent.com/CatDevelop/IT-School/main/Resources/Demo2.png "Library")
-![Filter](https://raw.githubusercontent.com/CatDevelop/IT-School/main/Resources/Demo3.png "Library")
-![Schemes](https://raw.githubusercontent.com/CatDevelop/IT-School/main/Resources/Demo4.png "Library")
+![Auth](https://raw.githubusercontent.com/CatDevelop/Library/main/Resources/Demo1.png "Library")
+![Main](https://raw.githubusercontent.com/CatDevelop/Library/main/Resources/Demo2.png "Library")
+![Filter](https://raw.githubusercontent.com/CatDevelop/Library/main/Resources/Demo3.png "Library")
+![Schemes](https://raw.githubusercontent.com/CatDevelop/Library/main/Resources/Demo4.png "Library")
 
